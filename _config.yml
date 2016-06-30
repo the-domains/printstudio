@@ -1,0 +1,14 @@
+layout_spectrum: 0.9953674271237105
+typography_spectrum: 0.457735164090991
+color:
+  brandStrength: 0.20261467644013464
+  lightness: 0.11575252516195178
+  saturation: 0.8103595681022853
+  rhythmicContrast: 0.6154833436012268
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: PrintStudio
